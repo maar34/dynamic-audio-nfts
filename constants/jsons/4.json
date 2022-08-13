@@ -1,0 +1,8 @@
+{
+    "name": "Visual&AudioNFTs",
+    "description": "Visual&AudioNFTs are the first SmartContract based dynamic NFTs that let owners to change the Audio of their Visualizers by interacting with the ZORAs Drop_Metadata_Renderer interface. Each Visualizer and its corresponding metadata is Stored in IPFS using NFT.STORAGE",
+    "external_url": "https://ethglobal.com/showcase/visual-and-audionfts-b0r4h",
+    "animation_url": "ipfs://bafybeigajkp6bnife6qj2u7h25jygnsi3svs7vuei3t23rfbixakp2gkz4/demo4.html",
+    "image": "ipfs://bafybeidnpcg5mxvjdg7rwytioys3xtol42routmg5mutedelxlbp3urjvm",
+    "attributes": [{ "trait_type": "Original", "value": "100%" }]
+}
