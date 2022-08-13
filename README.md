@@ -1,5 +1,7 @@
 # Visual Audio NFT Marketplace
 
+Our vision is to prototype our NFT AudioVisualizers and build a one-stop factory where any digital artist can use our platform to create amazing visualizers based on Dynamic Audio. Currently, NFT owners can use our dynamic audio engine to change the audio of their NFT and rewrite the baseURI animation, but in the future, we will provide the factory that digital artists will have access to create their collection by using the visualizer script and provide the corresponding audio file for each NFT and everything else is automated and decentralized. The way we plan to implement this is that we interact with ZORA SmartContracts to create ERC721Drops and monetize them from our platform with a custom Drop_Metadata_Renderer. Best of all, all files in each NFT are protected by NFT.store by using its APIs. We also have plans to include some more cool stuff and contribute to the ZORA ecosystem by creating our own Drop_Metadata_Renderer implementation to provide more utilities with SmartContract, and AccessControl for NFT owners and project creators to monetize their own NFTs on the fly.
+
 1. Give the user an option to upload their own audio files.
 2. Then change the html files to use the uploaded audio files.
 3. Then upload all the newly created html files to ipfs server.
